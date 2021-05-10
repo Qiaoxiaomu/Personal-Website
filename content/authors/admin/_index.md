@@ -2,7 +2,7 @@
 title: Zhaoyu (Edward) Xu
 role: Master Student in CSE & Finance
 bio: Coder/Ex-MOer/Knowing a little bit Finance/Actively seeking for PhD
-  Positions in OR/FE/Fin/CS(E)
+  Positions in Fin/OR/FE/CS(E)
 interests:
   - Machine Learning
   - Natural Language Processing
