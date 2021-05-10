@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 41
 
-title: Internship Experiences
+title: Professional Experiences
 subtitle: 
 
 # Date format for experience
