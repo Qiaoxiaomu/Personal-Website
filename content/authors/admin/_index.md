@@ -31,10 +31,10 @@ organizations:
 education:
   courses:
     - course: MSc in Computational Science and Engineering
-      institution: Georgia Institute of Technology (College of Computing)
+      institution: College of Computing, Georgia Institute of Technology
       year: 2023
     - course: MSc in Quantitative and Computational Finance
-      institution: Georgia Institute of Technology (School of Mathematics)
+      institution: School of Mathematics, Georgia Institute of Technology
       year: 2023
     - course: MSc in Finance
       institution: London School of Economics and Political Science (LSE)
