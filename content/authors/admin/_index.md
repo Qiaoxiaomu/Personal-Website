@@ -24,19 +24,24 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Institute of Technology
+    url: https://www.gatech.edu/
+  - name: London School of Economics and Political Science (LSE)
+    url: https://www.lse.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Computational Science and Engineering (College of Computing)
+      institution: Georgia Institute of Technology
+      year: 2023
+    - course: MSc in Quantitative and Computational Finance
+      institution: Georgia Institute of Technology
+      year: 2023
+    - course: MSc in Finance
+      institution: London School of Economics and Political Science (LSE)
+      year: 2021
+    - course: BBA (Hons) in Financial Services (Minor in Applied Math)
+      institution: The Hong Kong Polytechnic University (PolyU)
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
