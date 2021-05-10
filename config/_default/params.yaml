@@ -49,8 +49,8 @@ contact_links:
   - icon: weixin
     icon_pack: fab
     name: WeChat Me{{% /staticref %}}
-    link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
-    #link: 'https://keybase.io/'
+    #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
+    link: 'https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8'
     #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
   #- icon: comments
    # icon_pack: fas
