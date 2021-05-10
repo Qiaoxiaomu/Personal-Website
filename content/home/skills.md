@@ -29,20 +29,20 @@ feature:
   icon_pack: custom
   name: Machine/Deep Learning
 - description: 
-  icon: cuttlefish
-  icon_pack: fab
+  icon: c
+  icon_pack: custom
   name: C/C++
 - description: 
   icon: matlab
   icon_pack: custom
   name: MATLAB
 - description: 
-  icon: server
-  icon_pack: fas
+  icon: linux
+  icon_pack: custom
   name: Linux
 - description: 
-  icon: database
-  icon_pack: fas
+  icon: mysql
+  icon_pack: custom
   name: MySQL/MondoDB
  
 
