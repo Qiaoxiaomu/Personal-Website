@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 39
 
-title: Research Experiences
+title: Academic Experiences
 subtitle: 
 
 # Date format for experience
