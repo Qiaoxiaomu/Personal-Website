@@ -16,13 +16,13 @@ social:
     link: https://space.bilibili.com/47777638
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Zhaoyu-Xu-4
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Qiaoxiaomu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhaoyu-edward-xu-03400b146
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
