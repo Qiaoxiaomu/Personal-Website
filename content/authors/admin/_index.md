@@ -11,8 +11,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: bolt
-    icon_pack: fas
+  - icon: bilibili
+    icon_pack: custom
     link: https://space.bilibili.com/47777638
   - icon: graduation-cap
     icon_pack: fas
