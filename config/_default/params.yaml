@@ -50,7 +50,7 @@ contact_links:
     icon_pack: fab
     name: WeChat Me
     #link: 'https://keybase.io/'
-    link: {{< staticref "media/wechat.jpg" "newtab" >}}
+    link: {{% staticref "uploads/wechat.jpg" "newtab" %}}
   #- icon: comments
    # icon_pack: fas
     #name: Discuss on Forum
