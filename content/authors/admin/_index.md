@@ -46,9 +46,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Zhaoyu (Edward) Xu is a master student in the College of Computing at Georgia Institute of Technology. Before joining GaTech CoC, he has completed his MSc degree in Finance at London School of Economics (LSE) and has obtained his Bachelor’s (Hons) degree in Finance & Applied Math from The Hong Kong Polytechnic University (PolyU).
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+After graduation, he plans to pursue Ph.D. study in Financial Economics or in Operations Research (Financial Engineering). His research interests broadly cover the interdisciplinary fields of Machine/Deep Learning & Finance, currently focusing on the financial applications of Natural Language Processing (NLP) Models.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
