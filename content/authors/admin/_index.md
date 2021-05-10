@@ -1,6 +1,7 @@
 ---
 title: Zhaoyu (Edward) Xu
 role: Master Student in CSE & Finance
+avatar_filename: avatar.jpg
 bio: Otaku/Coder/Ex-MOer/Knowing a little bit Finance
 interests:
   - Machine Learning
