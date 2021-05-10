@@ -1,6 +1,6 @@
 ---
 title: Zhaoyu (Edward) Xu
-role: Master Student in CSE & Quant Fin
+role: Master Student in CSE & Finance
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
