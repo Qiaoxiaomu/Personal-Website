@@ -21,7 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: edwardxu1998@gmail.com
-phone: +86-18500390068
+phone: +86 18500390068
 address:
   street: 801 Atlantic Drive
   city: Atlanta
@@ -38,22 +38,22 @@ coordinates:
   #- 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 contact_links:
-  - icon: twitter
+  #- icon: twitter
+   # icon_pack: fab
+    #name: DM Me
+    #link: 'https://twitter.com/Twitter'
+  #- icon: skype
+    #icon_pack: fab
+    #name: Skype Me
+    #link: 'skype:echo123?call'
+  - icon: weixin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
+    name: WeChat Me
     link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  #- icon: comments
+   # icon_pack: fas
+    #name: Discuss on Forum
+    #link: 'https://discourse.gohugo.io'
 
 # Site header
 
