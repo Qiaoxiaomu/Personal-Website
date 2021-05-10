@@ -26,7 +26,7 @@ social:
 organizations:
   - name: Georgia Institute of Technology
     url: https://www.gatech.edu/
-  - name: London School of Economics (LSE)
+  - name: London School of Economics
     url: https://www.lse.ac.uk/
 education:
   courses:
