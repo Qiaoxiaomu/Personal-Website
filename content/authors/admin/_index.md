@@ -1,12 +1,12 @@
 ---
 title: Zhaoyu (Edward) Xu
 role: Master Student in CSE & Finance
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Coder/Ex-MOer/Knowing a little bit Finance/Actively seeking for PhD
+  Positions in OR/FE/Fin/CS(E)
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Natural Language Processing
+  - Computational Finance
 social:
   - icon: envelope
     icon_pack: fas
