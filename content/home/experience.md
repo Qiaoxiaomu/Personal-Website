@@ -35,6 +35,21 @@ experience:
         
         * Currently working on the research project of integrating several state-of-the-art Natural Language Processing models (like FinBERT, etc.) with Finance applications
 
+  - title: Economic Research Assistant
+    company: China Europe International Business School (CEIBS)
+    company_url: 'https://www.ceibs.edu/'
+    company_logo: ceibs
+    location: Shanghai
+    date_start: '2020-06-01'
+    date_end: '2020-10-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Actively engaged in the whole process of data collection/cleansing/mining using web scrapers/spiders & textual analysis tools (BeautifulSoup, Requests, Scrapy)
+        * Collaborated with multiple scholars on several econometric & macro/urban/regional economic research projects focusing on-
+          (i) The impacts of the unstable macroeconomic environment under the China-U.S. Trade War on various importing and exporting commodities from different sectors
+          (ii) The synergistic and spillover effects of exhibitions/sports events on regional hotel and tourism industry
+
   - title: CEO
     company: GenCoin
     company_url: ''
