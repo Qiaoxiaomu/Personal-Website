@@ -30,11 +30,11 @@ organizations:
     url: https://www.lse.ac.uk/
 education:
   courses:
-    - course: MSc in Computational Science and Engineering (College of Computing)
-      institution: Georgia Institute of Technology
+    - course: MSc in Computational Science and Engineering
+      institution: Georgia Institute of Technology (College of Computing)
       year: 2023
     - course: MSc in Quantitative and Computational Finance
-      institution: Georgia Institute of Technology
+      institution: Georgia Institute of Technology (School of Mathematics)
       year: 2023
     - course: MSc in Finance
       institution: London School of Economics and Political Science (LSE)
