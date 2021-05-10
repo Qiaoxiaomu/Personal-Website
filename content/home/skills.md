@@ -20,14 +20,22 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+# - description:
+  # icon: chart-line
+  # icon_pack: fas
+  # name: Statistics
 - description: 
   icon: cuttlefish
   icon_pack: fab
   name: C/C++
+- description: 
+  icon: stata
+  icon_pack: custom
+  name: Stata
+- description: 
+  icon: matlab
+  icon_pack: custom
+  name: MATLAB
 - description: 
   icon: server
   icon_pack: fas
