@@ -40,7 +40,7 @@ education:
       institution: London School of Economics and Political Science (LSE)
       year: 2021
     - course: BBA (Hons) in Financial Services (Minor in Applied Math)
-      institution: The Hong Kong Polytechnic University (PolyU)
+      institution: The Hong Kong Polytechnic University
       year: 2020
 email: ""
 superuser: true
