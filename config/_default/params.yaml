@@ -48,7 +48,7 @@ contact_links:
     #link: 'skype:echo123?call'
   - icon: weixin
     icon_pack: fab
-    name: WeChat Me
+    name: WeChat Me{{% /staticref %}}
     link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
     #link: 'https://keybase.io/'
     #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
