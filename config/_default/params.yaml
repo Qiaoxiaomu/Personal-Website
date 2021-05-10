@@ -48,7 +48,7 @@ contact_links:
     #link: 'skype:echo123?call'
   - icon: weixin
     icon_pack: fab
-    name: WeChat Me{{% /staticref %}}
+    name: WeChat Me
     #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
     link: 'https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8'
     #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
