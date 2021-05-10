@@ -7,10 +7,10 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 39
+weight: 41
 
-title: Experience
-subtitle: Research Experiences
+title: Internship Experiences
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
