@@ -23,47 +23,45 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Quantitative & NLP Researcher
-    company: LORA Technologies
-    company_url: 'https://www.loratechai.com/'
-    company_logo: loratech
-    location: Hong Kong
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Investment Banking Intern
+    company: China Securities Co., Ltd.
+    company_url: 'https://www.csc108.com/newsiteindex/index.jspx'
+    company_logo: csc
+    location: Beijing
+    date_start: '2020-09-01'
+    date_end: '2020-12-01'
     description: |2-
         Responsibilities include:
         
-        * Currently working on the research project of integrating several state-of-the-art Natural Language Processing models (like FinBERT, etc.) with Finance applications
+        * Actively engaged in the Sci-Tech Innovation Board IPO process of two leading semiconductor corporations focusing on the research and development of MEMS (Micro-Electro-Mechanical System) & SVAC (Security Video and Audio Coding) chips, executed onsite operational, legal, financial, KYC, AML due diligence work
+        * Took the responsibility of conducting market & policy researches and composing roadshow materials on several Equity carve-out (ECO) & Refinancing Projects
 
-  - title: Economic Research Assistant
-    company: China Europe International Business School (CEIBS)
-    company_url: 'https://www.ceibs.edu/'
-    company_logo: ceibs
+  - title: Business Analyst Intern
+    company: Alibaba Group
+    company_url: 'https://www.alibabagroup.com/cn/global/home'
+    company_logo: alibaba
     location: Shanghai
-    date_start: '2020-06-01'
-    date_end: '2020-10-01'
+    date_start: '2019-12-01'
+    date_end: '2020-01-01'
     description: |2-
         Responsibilities include:
         
-        * Actively engaged in the whole process of data collection/cleansing/mining using web scrapers/spiders & textual analysis tools (BeautifulSoup, Requests, Scrapy)
-        * Collaborated with multiple scholars on several econometric & macro/urban/regional economic research projects focusing on - 
-      
-          (i) The impacts of the unstable macroeconomic environment under the China-U.S. Trade War on various importing and exporting commodities from different sectors
+        * Completed the differential characteristic analysis and feature extraction by dint of machine learning algorithms (PCA, Xgboost & LightGBM) for identifying the potential target customers of a current Alipay product with millions of users
+        * Exerting the concepts and knowledges of Computational Advertising and Business Intelligence, continuously monitored the actual market effects of several specific publicity advertisements for this product, where statistical hypothesis (A/B testing etc.) and time series analysis are well performed for ameliorations on effectively designing the interactive user interface
           
-          (ii) The synergistic and spillover effects of exhibitions/sports events on regional hotel and tourism industry
-          
-  - title: Quantitative Researcher
-    company: PolyU Accounting & Finance Tech Lab & LORA Technologies
-    company_url: 'https://sites.google.com/view/polyuaftechlab/home'
-    company_logo: aftechlab
+  - title: Asset Management Summer Intern
+    company: China CITIC Bank (CNCB) (Hong Kong) Investment Limited
+    company_url: 'https://www.cncbinvestment.com/default.asp'
+    company_logo: cncb
     location: Hong Kong
     date_start: '2019-06-01'
-    date_end: '2020-06-01'
+    date_end: '2019-08-01'
     description: |2-
         Responsibilities include:
         
-        * Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
-        * Underwent systematic training on Python, R, Blockchain & Cryptocurrency and Statistical & Machine Learning
+        * Independently developed several automated analytic programs using VBA and Python (NumPy & Pandas), which has been widely used for calculating normalized NAV and profit attribution indicators for a fund with an AUM over 250 million HKD
+        * Verified and refined the valuation processes using DCF Model, Jarrow-Rudd (JR) & Cox-Ross-Rubinstein (CRR) Model, Monte Carlo Pricing and other methods for more than 20 investment projects in 2018FY with a total fair value over 12 billion HKD
+        * Collaborated with colleagues from legal & compliance department, revised the internal control protocols based on actual practices to ensure the legality for all kinds of investment and financing businesses
 
   #- title: CEO
     #company: GenCoin
