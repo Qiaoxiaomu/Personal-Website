@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: Quantitative & NLP Researcher
+  - title: Quantitative & NLP Researcher
     company: LORA Technologies
     company_url: 'https://www.loratechai.com/'
     company_logo: loratech
