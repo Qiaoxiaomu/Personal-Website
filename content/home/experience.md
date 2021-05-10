@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle: Academic Experiences
+subtitle: Research Experiences
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -46,20 +46,33 @@ experience:
         Responsibilities include:
         
         * Actively engaged in the whole process of data collection/cleansing/mining using web scrapers/spiders & textual analysis tools (BeautifulSoup, Requests, Scrapy)
-        * Collaborated with multiple scholars on several econometric & macro/urban/regional economic research projects focusing on-
+        * Collaborated with multiple scholars on several econometric & macro/urban/regional economic research projects focusing on - 
       
           (i) The impacts of the unstable macroeconomic environment under the China-U.S. Trade War on various importing and exporting commodities from different sectors
           
           (ii) The synergistic and spillover effects of exhibitions/sports events on regional hotel and tourism industry
-
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2021-02-02'
+          
+  - title: Quantitative Researcher
+    company: PolyU Accounting & Finance Tech Lab & LORA Technologies
+    company_url: 'https://sites.google.com/view/polyuaftechlab/home'
+    company_logo: aftechlab
+    location: Hong Kong
+    date_start: '2019-06-01'
+    date_end: '2020-06-01'
     description: |2-
+        Responsibilities include:
+        
+        * Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
+        * Underwent systematic training on Python, R, Blockchain & Cryptocurrency and Statistical & Machine Learning
+
+  #- title: CEO
+    #company: GenCoin
+    #company_url: ''
+    #company_logo: org-gc
+    #location: California
+    #date_start: '2021-01-01'
+    #date_end: '2021-02-02'
+    #description: |2-
 
         
  #- title: Professor of Semiconductor Physics
