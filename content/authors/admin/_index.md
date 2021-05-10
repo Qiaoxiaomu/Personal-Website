@@ -6,6 +6,7 @@ interests:
   - Machine Learning
   - Natural Language Processing
   - Computational Finance
+  - Asset Pricing
 social:
   - icon: envelope
     icon_pack: fas
