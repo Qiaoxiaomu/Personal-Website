@@ -25,13 +25,13 @@ feature:
   # icon_pack: fas
   # name: Statistics
 - description: 
+  icon: tensorflow
+  icon_pack: custom
+  name: Machine/Deep Learning
+- description: 
   icon: cuttlefish
   icon_pack: fab
   name: C/C++
-- description: 
-  icon: stata
-  icon_pack: custom
-  name: Stata
 - description: 
   icon: matlab
   icon_pack: custom
