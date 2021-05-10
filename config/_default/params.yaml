@@ -49,7 +49,8 @@ contact_links:
   - icon: weixin
     icon_pack: fab
     name: WeChat Me
-    link: 'https://keybase.io/'
+    #link: 'https://keybase.io/'
+    link: '{{< figure src="wechat.jpg" caption="QR Code" >}}'
   #- icon: comments
    # icon_pack: fas
     #name: Discuss on Forum
