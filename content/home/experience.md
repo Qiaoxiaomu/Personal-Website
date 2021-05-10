@@ -47,7 +47,9 @@ experience:
         
         * Actively engaged in the whole process of data collection/cleansing/mining using web scrapers/spiders & textual analysis tools (BeautifulSoup, Requests, Scrapy)
         * Collaborated with multiple scholars on several econometric & macro/urban/regional economic research projects focusing on-
+      
           (i) The impacts of the unstable macroeconomic environment under the China-U.S. Trade War on various importing and exporting commodities from different sectors
+          
           (ii) The synergistic and spillover effects of exhibitions/sports events on regional hotel and tourism industry
 
   - title: CEO
