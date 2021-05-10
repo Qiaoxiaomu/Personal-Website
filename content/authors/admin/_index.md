@@ -11,9 +11,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: bilibili
-    icon_pack: custom
-    link: https://space.bilibili.com/47777638
   - icon: graduation-cap
     icon_pack: fas
     link: https://www.researchgate.net/profile/Zhaoyu-Xu-4
