@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Experience
-subtitle:
+subtitle:Academic Experiences
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+- title: Quantitative & NLP Researcher
+    company: LORA Technologies
+    company_url: 'https://www.loratechai.com/'
+    company_logo: loratech
+    location: Hong Kong
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Currently working on the research project of integrating several state-of-the-art Natural Language Processing models (like FinBERT, etc.) with Finance applications
+
   - title: CEO
     company: GenCoin
     company_url: ''
