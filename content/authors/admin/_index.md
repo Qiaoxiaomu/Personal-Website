@@ -39,7 +39,7 @@ education:
     - course: MSc in Finance
       institution: London School of Economics and Political Science (LSE)
       year: 2021
-    - course: BBA (Hons) in Financial Services & Applied Math
+    - course: BBA (Hons) in Financial Services & Applied Mathematics
       institution: The Hong Kong Polytechnic University
       year: 2020
 email: ""
