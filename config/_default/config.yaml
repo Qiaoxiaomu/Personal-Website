@@ -5,7 +5,7 @@
 
 title: "Zhaoyu (Edward) Xu" # Website name
 baseurl: 'https://edward-xzy.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2021} Edward Xu' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
