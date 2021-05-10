@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 39
 
-title: Experience
-subtitle: Research Experiences
+title: Research Experiences
+subtitle: 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
