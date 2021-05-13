@@ -30,10 +30,10 @@ item:
   description: " ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
   
   
-  ◼ Presented at the 90th International Atlantic Economic Conference
+  ◼ Presented at the **_90th International Atlantic Economic Conference_**
   
   
-  ◼ Forthcoming at the Atlantic Economic Journal (https://arxiv.org/abs/2005.13995)"
+  ◼ Forthcoming at the **Atlantic Economic Journal** (https://arxiv.org/abs/2005.13995)"
   organization: International Atlantic Economic Society (IAES)
   organization_url: https://www.iaes.org/
   title: |2-
