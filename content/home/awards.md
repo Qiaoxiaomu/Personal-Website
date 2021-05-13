@@ -89,7 +89,7 @@ item:
   title: |2-
     ACCA Hong Kong Business Competition
     
-    _Judges Commendation Award_
+    _Judges Commendation Award (Top12)_
   url: "https://www.accaglobal.com/hk/en/student/support-students/hk-business-competition-2020.html"
 
 design:
