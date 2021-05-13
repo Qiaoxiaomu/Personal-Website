@@ -58,6 +58,29 @@ item:
   title: LSE Graduate Entrance Scholarship
   url: ""
   
+  
+  
+
+- certificate_url:
+  date_end: ""
+  date_start: "2020-04-01"
+  description: "◼ Awarded to **Top 10% students in the Faculty** for each academic year"
+  organization: Faculty of Business - The Hong Kong Polytechnic University
+  organization_url: https://fb.polyu.edu.hk/
+  title: Faculty of Business Dean's List
+  url: ""
+  
+  
+
+- certificate_url:
+  date_end: ""
+  date_start: "2019-11-01"
+  description: "◼ Awarded to **Top 3 students in each major** for each academic year"
+  organization: School of Accounting & Finance - The Hong Kong Polytechnic University
+  organization_url: https://af.polyu.edu.hk/
+  title: Outstanding Academic Achievement Award
+  url: ""
+  
 
   
 - certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdcvEFk7bFzcrZT2Q?e=GEdFgR
