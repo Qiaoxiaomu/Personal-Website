@@ -65,17 +65,32 @@ item:
     _Meriterious Winner (7%)_
   url: "https://www.comap.com/undergraduate/contests/index.html"
   
-- certificate_url: 
+# - certificate_url: 
+#  date_end: ""
+#  date_start: "2019-06-01"
+#  description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
+#  organization: Operations Research Society of China
+#  organization_url: 
+#  title: |2-
+#    2019 National Risk Management Competition for College Students
+#    
+#    _First Prize [1st place]_
+#  url:
+
+- certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdc0_jRr3TXUtyTDU?e=DCq1km
   date_end: ""
-  date_start: "2019-06-01"
-  description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
-  organization: Operations Research Society of China
-  organization_url: 
+  date_start: "2018-12-01"
+  description: "◼ The only varsity team from PolyU qualified for the regional semi-final competition
+  
+
+◼ Completed business proposal targeting at Ecotourism Industry in Hong Kong and proposed feasible improvement solutions for the social enterprise (NLPRA), which was commended by the organizing committee"
+  organization: Association of Chartered Certified Accountants (ACCA)
+  organization_url: https://www.accaglobal.com/hk/en.html
   title: |2-
-    2019 National Risk Management Competition for College Students
+    ACCA Hong Kong Business Competition 2018-19
     
-    _First Prize [1st place]_
-  url:
+    _Judges Commendation Award_
+  url: "https://www.accaglobal.com/hk/en/student/support-students/hk-business-competition-2020.html"
 
 design:
   columns: '2' 
