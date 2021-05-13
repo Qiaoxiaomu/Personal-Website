@@ -30,14 +30,14 @@ item:
   description: " ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
   
   
-  ◼ Presented at the **_90th International Atlantic Economic Conference_**
+  ◼ Presented at the **90th International Atlantic Economic Conference**
   
   
-  ◼ Forthcoming at the **_Atlantic Economic Journal_** (https://arxiv.org/abs/2005.13995)"
+  ◼ Forthcoming at the **Atlantic Economic Journal** (https://arxiv.org/abs/2005.13995)"
   organization: International Atlantic Economic Society (IAES)
   organization_url: https://www.iaes.org/
   title: |2-
-    The 16th IAES Best Undergraduate Paper Award    
+    **The 16th IAES Best Undergraduate Paper Award**    
     Finalists
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
