@@ -47,9 +47,9 @@ item:
   date_end: ""
   date_start: "2019-01-01"
   description: ""
-  organization: |2-
-    Mathematical Association of America(MAA)
-    American Mathematical Society (AMS), etc.
+  organization: Mathematical Association of America(MAA)
+  
+  American Mathematical Society (AMS), etc.
   organization_url: https://www.maa.org/
   title: |2-
     The Mathematical & Interdisciplinary Contest in Modeling (MCM/ICM) 
