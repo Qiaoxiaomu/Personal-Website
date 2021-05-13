@@ -27,7 +27,7 @@ item:
 - certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdcbbHpmVN0ozJ0iE?e=OhkdH3
   date_end: ""
   date_start: "2020-10-01"
-  description: " ◼ _(2020 Contest Description)_ To encourage undergraduate interest in economic issues, **Andrew W. Lo**, President, and **Philippe Martin**, Vice-President, of the **International Atlantic Economic Society** cordially invite students to compete in the IAES annual undergraduate competition in Washington, D.C., 15-18 October 2020
+  description: "◼ _(2020 Contest Description)_ To encourage undergraduate interest in economic issues, **Andrew W. Lo**, President, and **Philippe Martin**, Vice-President, of the **International Atlantic Economic Society** cordially invite students to compete in the IAES annual undergraduate competition in Washington, D.C., 15-18 October 2020
   
   
   ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
@@ -87,7 +87,7 @@ item:
   organization: Association of Chartered Certified Accountants (ACCA)
   organization_url: https://www.accaglobal.com/hk/en.html
   title: |2-
-    ACCA Hong Kong Business Competition 2018-19
+    ACCA Hong Kong Business Competition
     
     _Judges Commendation Award_
   url: "https://www.accaglobal.com/hk/en/student/support-students/hk-business-competition-2020.html"
