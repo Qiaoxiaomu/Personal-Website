@@ -23,14 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  date_start: "2020-10-01"
+  description: "*Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
+  *Presented at the 90th International Atlantic Economic Conference"
+  organization: International Atlantic Economic Society (IAES)
+  organization_url: https://www.iaes.org/
+  title: Finalists - The 16th International Atlantic Economic Society (IAES) Best Undergraduate Paper Award
+  url: "https://www.iaes.org/best-undergraduate-paper-award/"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"
