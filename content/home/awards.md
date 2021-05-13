@@ -27,24 +27,24 @@ item:
 - certificate_url: 
   date_end: ""
   date_start: "2020-10-01"
-  description: "* Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
+  description: "◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
   
-  * Presented at the 90th International Atlantic Economic Conference
+  ◼ Presented at the 90th International Atlantic Economic Conference
   
-  * Forthcoming at Atlantic Economic Journal (arXiv:2005.13995, https://doi.org/10.1007/s11293-020-09691-1)"
+  ◼ Forthcoming at the Atlantic Economic Journal (https://arxiv.org/abs/2005.13995)"
   organization: International Atlantic Economic Society (IAES)
   organization_url: https://www.iaes.org/
   title: Finalists - The 16th IAES Best Undergraduate Paper Award
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
-- certificate_url: https://www.edx.org
+- certificate_url: 
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  date_start: "2019-06-01"
+  description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
+  organization: Operations Research Society of China
+  organization_url: 
+  title: First Prize [1st place] - 2019 National Risk Management Competition for College Students
+  url: 
   
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
