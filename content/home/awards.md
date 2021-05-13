@@ -27,17 +27,17 @@ item:
 - certificate_url: 
   date_end: "2020-11-01"
   date_start: "2020-10-01"
-  description: " |3-
-  ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
+  description: " ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
+  
   
   ◼ Presented at the 90th International Atlantic Economic Conference
+  
   
   ◼ Forthcoming at the Atlantic Economic Journal (https://arxiv.org/abs/2005.13995)"
   organization: International Atlantic Economic Society (IAES)
   organization_url: https://www.iaes.org/
   title: |2-
-    The 16th International Atlantic Economic Society (IAES) Best Undergraduate Paper Award
-    
+    The 16th IAES Best Undergraduate Paper Award    
     Finalists
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
@@ -47,7 +47,9 @@ item:
   description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
   organization: Operations Research Society of China
   organization_url: 
-  title: First Prize [1st place] - 2019 National Risk Management Competition for College Students
+  title: |2-
+    2019 National Risk Management Competition for College Students
+    First Prize [1st place]
   url: 
   
 - certificate_url: https://www.datacamp.com
