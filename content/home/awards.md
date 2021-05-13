@@ -64,10 +64,10 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-04-01"
-  description: "◼ Awarded to **Top 10% students in the Faculty** for each academic year"
+  description: "◼ Awarded to **the Top 10% students in the Faculty** for each academic year"
   organization: Faculty of Business - The Hong Kong Polytechnic University
   organization_url: https://fb.polyu.edu.hk/
-  title: Faculty of Business Dean's List
+  title: Dean's List
   url: ""
   
   
@@ -75,7 +75,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2019-11-01"
-  description: "◼ Awarded to **Top 3 students in each major** for each academic year"
+  description: "◼ Awarded to **the Top 3 students in each major** for each academic year"
   organization: School of Accounting & Finance - The Hong Kong Polytechnic University
   organization_url: https://af.polyu.edu.hk/
   title: Outstanding Academic Achievement Award
@@ -102,16 +102,16 @@ item:
   url: "https://www.comap.com/undergraduate/contests/index.html"
   
 # - certificate_url: 
-#  date_end: ""
-#  date_start: "2019-06-01"
-#  description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
-#  organization: Operations Research Society of China
-#  organization_url: 
-#  title: |2-
-#    2019 National Risk Management Competition for College Students
-#    
-#    _First Prize [1st place]_
-#  url:
+ # date_end: ""
+ # date_start: "2019-06-01"
+ # description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
+ # organization: Operations Research Society of China
+ # organization_url: 
+ # title: |2-
+ #   2019 National Risk Management Competition for College Students
+ #   
+ #   _First Prize [1st place]_
+ # url:
 
 - certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdc0_jRr3TXUtyTDU?e=DCq1km
   date_end: ""
