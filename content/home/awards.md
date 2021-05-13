@@ -24,7 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 
-- certificate_url: 
+- certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdcc7Q_m7Xfuxv8pQ?e=QmIuQg
   date_end: "2020-11-01"
   date_start: "2020-10-01"
   description: " ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
@@ -37,8 +37,8 @@ item:
   organization: International Atlantic Economic Society (IAES)
   organization_url: https://www.iaes.org/
   title: |2-
-    **The 16th IAES Best Undergraduate Paper Award**    
-    Finalists
+    **The 16th IAES Best Undergraduate Paper Award**
+    _Finalists_
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
 - certificate_url: 
@@ -48,7 +48,7 @@ item:
   organization: Operations Research Society of China
   organization_url: 
   title: |2-
-    2019 National Risk Management Competition for College Students    
+    **2019 National Risk Management Competition for College Students**
     _First Prize [1st place]_
 
   url: 
