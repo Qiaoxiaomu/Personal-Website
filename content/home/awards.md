@@ -45,6 +45,19 @@ item:
     _Finalists_
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
+  
+  - certificate_url:
+  date_end: ""
+  date_start: "2020-09-01"
+  description: "◼ Being elected as Academic Representative for the flagship MSc Finance Program at LSE
+  
+
+◼ Being granted £6000 GSS award"
+  organization: Department of Finance - London School of Economics
+  organization_url: https://www.lse.ac.uk/Finance
+  title: LSE Graduate Entrance Scholarship
+  url: ""
+  
 
   
 - certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdcvEFk7bFzcrZT2Q?e=GEdFgR
@@ -89,8 +102,10 @@ item:
   title: |2-
     ACCA Hong Kong Business Competition
     
-    _Judges Commendation Award (Top12)_
+    _Judges Commendation Award (Top 12)_
   url: "https://www.accaglobal.com/hk/en/student/support-students/hk-business-competition-2020.html"
+  
+
 
 design:
   columns: '2' 
