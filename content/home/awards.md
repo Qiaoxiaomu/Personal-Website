@@ -29,6 +29,7 @@ item:
   date_start: "2020-10-01"
   description: " ◼ _(2020 Contest Description)_ To encourage undergraduate interest in economic issues, **Andrew W. Lo**, President, and **Philippe Martin**, Vice-President, of the **International Atlantic Economic Society** cordially invite students to compete in the IAES annual undergraduate competition in Washington, D.C., 15-18 October 2020
   
+  
   ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
   
   
@@ -40,7 +41,6 @@ item:
   organization_url: https://www.iaes.org/
   title: |2-
     The 16th IAES Best Undergraduate Paper Award
-    
     _Finalists_
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
