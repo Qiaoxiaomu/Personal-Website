@@ -43,7 +43,7 @@ item:
   
 - certificate_url: 
   date_end: ""
-  date_start: "2019"
+  date_start: "2019-06-01"
   description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
   organization: Operations Research Society of China
   organization_url: 
