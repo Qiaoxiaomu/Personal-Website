@@ -50,7 +50,7 @@ contact_links:
     icon_pack: fab
     name: WeChat Me
     #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
-    link: 'https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8'
+    link: 'https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8?e=7KApc0'
     #link: '{{% staticref "uploads/wechat.jpg" "newtab" %}}'
   #- icon: comments
    # icon_pack: fas
