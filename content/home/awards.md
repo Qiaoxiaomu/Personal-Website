@@ -33,12 +33,12 @@ item:
   ◼ Presented at the **_90th International Atlantic Economic Conference_**
   
   
-  ◼ Forthcoming at the **Atlantic Economic Journal** (https://arxiv.org/abs/2005.13995)"
+  ◼ Forthcoming at the **_Atlantic Economic Journal_** (https://arxiv.org/abs/2005.13995)"
   organization: International Atlantic Economic Society (IAES)
   organization_url: https://www.iaes.org/
   title: |2-
     The 16th IAES Best Undergraduate Paper Award    
-    _Finalists_
+    Finalists
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
 - certificate_url: 
