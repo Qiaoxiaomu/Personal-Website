@@ -38,18 +38,19 @@ item:
   organization_url: https://www.iaes.org/
   title: |2-
     The 16th IAES Best Undergraduate Paper Award    
-    Finalists
+    _Finalists_
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
 - certificate_url: 
   date_end: ""
-  date_start: "2019-06-01"
+  date_start: "2019"
   description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
   organization: Operations Research Society of China
   organization_url: 
   title: |2-
-    2019 National Risk Management Competition for College Students
-    First Prize [1st place]
+    2019 National Risk Management Competition for College Students    
+    _First Prize [1st place]_
+
   url: 
   
 - certificate_url: https://www.datacamp.com
