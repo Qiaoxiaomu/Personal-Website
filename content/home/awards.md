@@ -41,6 +41,7 @@ item:
   organization_url: https://www.iaes.org/
   title: |2-
     The 16th IAES Best Undergraduate Paper Award
+    
     _Finalists_
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
