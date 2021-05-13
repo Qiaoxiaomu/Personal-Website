@@ -64,7 +64,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-04-01"
-  description: "◼ Awarded to the **Top 10%** students in the Faculty"
+  description: "◼ Awarded to the **Top 10% students** in the Faculty"
   organization: Faculty of Business - The Hong Kong Polytechnic University
   organization_url: https://fb.polyu.edu.hk/
   title: Dean's List
@@ -75,7 +75,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2019-11-01"
-  description: "◼ Awarded to the **Top 3** students in each major"
+  description: "◼ Awarded to the **Top 3 students** in each major"
   organization: School of Accounting & Finance - The Hong Kong Polytechnic University
   organization_url: https://af.polyu.edu.hk/
   title: Outstanding Academic Achievement Award
