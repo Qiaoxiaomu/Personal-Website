@@ -38,6 +38,7 @@ item:
   organization_url: https://www.iaes.org/
   title: |2-
     The 16th IAES Best Undergraduate Paper Award
+    
     _Finalists_
   url: "https://www.iaes.org/best-undergraduate-paper-award/"
   
@@ -47,10 +48,14 @@ item:
   date_end: ""
   date_start: "2019-01-01"
   description: ""
-  organization: Mathematical Association of America(MAA), American Mathematical Society (AMS), etc.
+  organization: |2-
+  Mathematical Association of America(MAA)
+  
+  American Mathematical Society (AMS), etc.
   organization_url: https://www.maa.org/
   title: |2-
     The Mathematical & Interdisciplinary Contest in Modeling (MCM/ICM) 
+    
     _Meriterious Winner (7%)_
   url: "https://www.comap.com/undergraduate/contests/index.html"
   
@@ -62,6 +67,7 @@ item:
   organization_url: 
   title: |2-
     2019 National Risk Management Competition for College Students
+    
     _First Prize [1st place]_
   url:
 
