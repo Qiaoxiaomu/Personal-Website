@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 
 - certificate_url: https://1drv.ms/u/s!Av0DBqC1uDGdcbbHpmVN0ozJ0iE?e=OhkdH3
-  date_end: "2020-11-01"
+  date_end: ""
   date_start: "2020-10-01"
   description: " ◼ Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
   
@@ -56,7 +56,7 @@ item:
   
 - certificate_url: 
   date_end: ""
-  date_start: ""
+  date_start: "2019"
   description: ◼ Constructed a comprehensive trading and investing algorithm based on the techniques of machine/deep learning stock picking, Markowitz's Modern Portfolio Theory (MPT) and Bayesian Shrinkage (Black-Litterman Model).
   organization: Operations Research Society of China
   organization_url: 
