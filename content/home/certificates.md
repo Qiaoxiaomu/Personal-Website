@@ -10,7 +10,7 @@ headless: true
 weight: 51
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certificates'
+title: 'MOOCs & Certificates'
 #title: 'Accomplish&shy;ments'
 subtitle:
 
