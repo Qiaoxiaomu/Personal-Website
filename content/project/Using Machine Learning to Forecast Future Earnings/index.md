@@ -1,6 +1,6 @@
 ---
 title: Using Machine Learning to Forecast Future Earnings
-summary: Capstone Project Co-advised by **Dr. Zhao Jingran** (@PolyU) & **Mr. Stephen Choi** (@LORA Technologies)
+summary: Capstone Project Co-advised by **Dr. Zhao Jingran** (@ PolyU) & **Mr. Stephen Choi** (@ LORA Technologies)
 tags:
 - Finance
 - Machine Learning
