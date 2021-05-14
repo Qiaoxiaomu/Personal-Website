@@ -12,7 +12,7 @@ external_link: ""
 
 image:
   caption: 
-  focal_point: ""
+  focal_point: Smart
 
 links:
 # - icon: twitter
