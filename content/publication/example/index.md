@@ -29,12 +29,12 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Atlantic Economic Journal*
-publication_short: In **
+publication_short: In *Atlantic Economic Journal*
 
 abstract: In this essay, we have comprehensively evaluated the feasibility and suitability of adopting the Machine Learning Models on the forecast of corporation fundamentals (i.e. the earnings), where the prediction results of our method have been thoroughly compared with both analysts' consensus estimation and traditional statistical models. As a result, our model has already been proved to be capable of serving as a favorable auxiliary tool for analysts to conduct better predictions on company fundamentals. Compared with previous traditional statistical models being widely adopted in the industry like Logistic Regression, our method has already achieved satisfactory advancement on both the prediction accuracy and speed. Meanwhile, we are also confident enough that there are still vast potentialities for this model to evolve, where we do hope that in the near future, the machine learning model could generate even better performances compared with professional analysts.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Comprehensively assessed the feasibility and suitability of a series of Machine Learning (PCA + XgBoost/LightGBM) & Deep Learning (AutoEncoder + GRU/LSTM) models on the predictions of company fundamentals (i.e., the Earnings)
 
 tags: []
 
@@ -75,7 +75,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
