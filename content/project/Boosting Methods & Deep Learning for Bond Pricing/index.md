@@ -1,6 +1,6 @@
 ---
 title: Boosting Methods & Deep Learning for Bond Pricing
-summary: Graduate Dissertation @ LSE advised by **Professor Peter Kondor**
+summary: Graduate Dissertation @ LSE advised by **Prof. Peter Kondor**
 tags:
 - Finance
 - Machine Learning
@@ -19,6 +19,10 @@ links:
  # icon_pack: fab
  # name: Follow
  # url: https://twitter.com/georgecushen
+- icon: github
+  icon_pack: fab
+  name: Go to Project Site
+  url: https://github.com/Qiaoxiaomu/Boosting-Methods-Deep-Learning-for-Bond-Pricing
 url_code: ""
 url_pdf: ""
 url_slides: ""
