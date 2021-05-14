@@ -44,12 +44,12 @@ item:
   url: "https://www.coursera.org/learn/machine-learning"
 
 - certificate_url: 
-  date_end: ""
+  date_end: "2021-04-01"
   date_start: "2021-03-01"
   description: 
   organization: edX
   organization_url: https://www.edx.org
-  title: Convex Optimization (Ongoing)
+  title: Convex Optimization
   url: https://www.edx.org/course/convex-optimization
 
 - certificate_url: http://coursera.org/verify/DS86DUDZR6P3
