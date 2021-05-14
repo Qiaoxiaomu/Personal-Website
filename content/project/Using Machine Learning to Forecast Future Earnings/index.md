@@ -12,14 +12,19 @@ external_link: ""
 
 image:
   caption: 
-  focal_point: ""
+  focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Go to Project Site
+  url: https://github.com/stepchoi/HKP_ML_DL
+
 # - icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: https://twitter.com/georgecushen
-url_code: "https://github.com/stepchoi/HKP_ML_DL"
+# url_code: "https://github.com/stepchoi/HKP_ML_DL"
 url_pdf: "https://arxiv.org/pdf/2005.13995"
 url_slides: "http://www.iaes.org/wp-content/uploads/2020/10/Use-Machine-Learning-to-Forecast-Future-Earnings.pdf"
 url_video: ""
