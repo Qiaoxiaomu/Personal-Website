@@ -1,6 +1,6 @@
 ---
 title: Boosting Methods & Deep Learning for Bond Pricing
-summary: Graduate Dissertation @ LSE advised by **Prof. Peter Kondor**
+summary: Graduate **Dissertation @ LSE** advised by **Prof. Peter Kondor**
 tags:
 - Finance
 - Machine Learning
