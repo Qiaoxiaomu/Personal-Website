@@ -20,66 +20,45 @@ image:
   preview_only: false
 ---
 
+## Project <Human Distress Signal**>
 
-## Overview
+<**Human Distress Signal ([#人类求救信号]({{< icon name="weibo" pack="fab" >}} https://weibo.com/6373550904/JuOjIc5PU))**> is a unique project initialized by {{< icon name="weibo" pack="fab" >}} [**三米造事务所**](https://weibo.com/sancaomanhua) & {{< icon name="weibo" pack="fab" >}} [**不才哎哟哟**](https://weibo.com/u/2026955024), which stands at a truly unique and profound perspective, aiming to evoke the society’s due attention toward the longly neglected various syndromes of mental disorders like depression, anxiety, insomnia, social phobia, etc. Just as being described in the proposal of this project – 
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+_「……   ……   ……
+这里有一种声音，像求救信号，却难以收到同频率的共鸣。
+直到孤独者症候群开始扩大，信号开始变得强烈。
+抑郁、焦虑、失眠、社交恐惧……
+越来越多的人失去了他们原有的频率，开始发出同一种讯号。
+但我们身处同一种困境，你不是一个人在求救。」_
 
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+## Track 05 “**Social Phobia**” - **Unwanted Visitor to the Fairy Tale**
 
-## Get Started
+As implied by the track name, this single is written for the individuals of social phobia with the style of a dark fairy tale, hoping to plot a seemingly relaxed profile of their inner world with the innocent voice of {{< icon name="weibo" pack="fab" >}} [**R洛少爷**](https://weibo.com/rluoshaoye).
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+_「这首是暗黑童话式的风格，搭配歌手童真的声线，希望以一个更为童话故事的口吻来描述社交恐惧症的内心世界。曲调设计了小调转大调再转小调的结构，是映射社交恐惧症患者自我封闭——不断尝试触碰外面的世界——最后还是没能进入社交世界而回落到自己的空间里的思路，企图通过转变的曲调传达一个社交恐惧症患者的求救信号。
+整首歌就像社交恐惧症的内心世界，仿佛站在童话故事里的八音盒，打开之后可以看见这个世界，也会有音乐响起，像是一些自言自语的邀请，但最终还是无法融入这个世界，只是孤独的在这一个小小盒子里旋转。」_
 
-## Crowd-funded open-source software
+Just as described in the lyrics-
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+「街上的人们陆续经过
+都像光影般窜梭 应和日落
+汇聚成地平线上烟火
+唯独没照亮我
+行人影子相互交错
+幕布 在唏嘘声中缓缓降落
+灯光下无处可躲
+周身 被低语声包裹
+一切像个
+自说自赏八音盒
+动身 向来时路跑着
+逃避着
+恐惧也不动声色
+游荡 温柔绚丽世间
+此时此刻
+原来我才是不速之客」
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create *anything* with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+_All rights reserved to the original authors._
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md) license.
