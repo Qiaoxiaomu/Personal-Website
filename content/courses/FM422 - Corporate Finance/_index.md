@@ -34,33 +34,33 @@ This collection is just the annotations of my own superficial understandings on 
 
 - Readings:
 
-∗ BDM, ch. 2 (sections 2.6-2.7): “Introduction to Financial Statement Analysis”
+    ∗ BDM, ch. 2 (sections 2.6-2.7): “Introduction to Financial Statement Analysis”
 
-∗ Case Study: “Unidentified Industries”
+    ∗ Case Study: “Unidentified Industries”
 
-∗ (Higgins, Koski, Mitton, ch. 2:  “Evaluating Financial Performance”)
+    ∗ (Higgins, Koski, Mitton, ch. 2:  “Evaluating Financial Performance”)
 
-∗ (Higgins, Koski, Mitton, ch. 4: “Managing Growth”)
+    ∗ (Higgins, Koski, Mitton, ch. 4: “Managing Growth”)
 
 * **Session 2 Lecture: Capital Structure 1: Frictionless world**
 
 - Readings:
 
-∗ BDM, ch.  14:  “Capital Structure in a Perfect Market”
+    ∗ BDM, ch.  14:  “Capital Structure in a Perfect Market”
 
 *	**Session 3 Lecture: Capital Structure 2: Debt and Taxes**
 
 - Readings:
 
-∗ BDM, ch. 15: “Debt and Taxes”
+    ∗ BDM, ch. 15: “Debt and Taxes”
 
-∗ BDM, ch. 16: “Financial Distress, Managerial Incentives and Information”
+    ∗ BDM, ch. 16: “Financial Distress, Managerial Incentives and Information”
 
 *	**Session 4 Lecture: Capital Structure 3: Agency**
 
 - Readings:
 
-∗ BDM ch. 16: “Financial Distress, Managerial Incentives and Information”
+    ∗ BDM ch. 16: “Financial Distress, Managerial Incentives and Information”
 
 *	**Session 5 Case Study: UST Inc**
 
@@ -68,7 +68,7 @@ This collection is just the annotations of my own superficial understandings on 
 
 - Readings:
 
-∗ BDM, ch 16: “Financial Distress, Managerial Incentives and Information”
+    ∗ BDM, ch 16: “Financial Distress, Managerial Incentives and Information”
 
 *	**Session 7 Case Study: Williams**
 
@@ -78,7 +78,7 @@ This collection is just the annotations of my own superficial understandings on 
 
 - Readings:
 
-∗ BDM, ch. 17: “Payout Policy”
+    ∗ BDM, ch. 17: “Payout Policy”
 
 
 
@@ -86,19 +86,27 @@ This collection is just the annotations of my own superficial understandings on 
 
 *	**Session 1	Free Cash Flow & Callaway Golf**
 
+
 *	**Session 2	Diamond Chemicals & Firm and Equity Valuation**
+
 
 *	**Session 3	Interco & Alternative Investment Criteria**
 
+
 *	**Session 4	Cost of Capital & WACC and APV**
+
 
 *	**Session 5	Tottenham Hotspur**
 
+
 *	**Session 6	Mergers and Acquisitions & Cooper Industries**
+
 
 *	**Session 7	IPOs & Knoll Furniture**
 
+
 *	**Session 8	Real Options**
+
 
 *	**Session 9	Arundel Partners & Wrap-up**
 
