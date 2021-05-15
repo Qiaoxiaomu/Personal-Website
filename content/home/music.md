@@ -22,5 +22,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-                           Theme Music
 {{< audio src="Theme Music.mp3" >}}
