@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: Seminar 01 on the Real and Complex Number Systems
-abstract: Weekly seminar organized by [AntiRomance](https://b23.tv/gwMu9d)
+abstract: Weekly seminar organized by [AntiRomance](https://b23.tv/gwMu9d).
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-04-09T20:00:00Z"
