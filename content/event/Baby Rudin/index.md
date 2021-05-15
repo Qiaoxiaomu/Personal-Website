@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   # country: United States
 
-summary: Seminar 01 on the Real and Complex Number Systems
+summary: Seminar 01 on Real and Complex Number Systems
 abstract: Weekly seminar organized by [AntiRomance](https://b23.tv/gwMu9d).
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
