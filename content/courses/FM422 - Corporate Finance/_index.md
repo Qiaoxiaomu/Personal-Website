@@ -1,7 +1,7 @@
 ---
 date: "2021-05-15"
-linkTitle: FM422 - Corporate Finance (2020 Fall @ LSE)
-summary: Together with "**FM423 - Asset Markets**", these are the two dedicated core courses in the first term of LSE's flagship MSc Finance (FPE) Program.
+linkTitle: FM422 - Corporate Finance (2020 Fall)
+summary: Together with "FM423 - Asset Markets", these are the two dedicated core courses in the first term of LSE's flagship MSc Finance (FPE) Program.
 title: "FM422 - Corporate Finance"
 type: book
 math: true
@@ -12,7 +12,8 @@ weight: 1
 
 {{< toc hide_on="xl" >}}
 
-# Course Information
+## Course Information
+
 
 This core course provides a broad introduction to the key issues in corporate finance. 
 
@@ -24,7 +25,8 @@ The second half of the course, the **Valuation Module**, covers firm and project
 This collection is just the annotations of my own superficial understandings on the marvellous lecture notes provided by [Prof. Amil Dasgupta](https://personal.lse.ac.uk/dasgupt2/) & [Dr. Pedro Saffi](https://pedrosaffi.com/). All rights reserved to the original authors. 
 {{% /callout %}}
 
-# Brief Syllabus
+## Brief Syllabus
+
 
 **For Financing Module:**
 
@@ -92,7 +94,8 @@ This collection is just the annotations of my own superficial understandings on 
 
 
 
-# Prerequisites
+## Prerequisites
+
 
 **For Financing Module:**
 
