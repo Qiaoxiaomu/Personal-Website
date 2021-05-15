@@ -27,8 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: Machine Learning
+    tag: Machine Learning
   - name: Deep Learning
     tag: Deep Learning
+  - name: Python
+    tag: Python
+  - name: C/C++
+    tag: C/C++
   - name: Other
     tag: Demo
 
