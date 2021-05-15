@@ -1,5 +1,5 @@
 ---
-title: About the Theme Music - **Unwanted Visitor to the Fairy Tale**
+title: About the Theme Music - Unwanted Visitor to the Fairy Tale
 subtitle: Project <**Human Distress Signal**> Track 05 "**Social Phobia**"
 date: 2021-01-08T00:00:00Z
 summary: Project <**Human Distress Signal**> Track 05 "**Social Phobia**"
