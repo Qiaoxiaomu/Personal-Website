@@ -39,7 +39,7 @@ links:
   name: Follow Organizer
   url: https://b23.tv/gwMu9d
 url_code: ""
-url_pdf: "Baby Rudin ch01"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
