@@ -5,7 +5,7 @@ active = true  # Activate this widget? true/false
 weight = 14  # Order that this section will appear.
 
 title = ""
-subtitle = "Theme Music"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -13,7 +13,7 @@ subtitle = "Theme Music"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "500px"]
+  padding = ["0px", "0", "0px", "1000px"]
 
 [advanced]
  # Custom CSS. 
@@ -22,13 +22,5 @@ subtitle = "Theme Music"
  # CSS class.
  css_class = ""
 +++
-
+Theme Music
 {{< audio src="Theme Music.mp3" >}}
-
-{{% callout note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-**To remove this section, delete `content/home/demo.md`.**
-{{% /callout %}}
