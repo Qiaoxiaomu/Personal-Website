@@ -13,7 +13,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0", "0px", "1000px"]
+  padding = ["20px", "0", "20px", "1000px"]
 
 [advanced]
  # Custom CSS. 
@@ -22,5 +22,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-Theme Music
+          **Theme Music**
 {{< audio src="Theme Music.mp3" >}}
