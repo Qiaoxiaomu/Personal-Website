@@ -6,4 +6,4 @@ title: Notes
 type: page
 ---
 
-Where the knowledge is archived...
+_Archives of previous courses & books_
