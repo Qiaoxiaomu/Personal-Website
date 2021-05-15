@@ -2,7 +2,7 @@
 title: Weekly Seminar on Baby Rudin
 
 event: Seminar #01 on Baby Rudin
-event_url: {{< icon name="bilibili" pack="custom" >}} https://b23.tv/DEXlRN
+event_url: https://b23.tv/DEXlRN
 
 location: Tencent Conference
 address:
