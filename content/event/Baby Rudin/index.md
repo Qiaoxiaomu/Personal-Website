@@ -36,10 +36,11 @@ image:
 links:
 - icon: bilibili
   icon_pack: custom
-  name: Follow 0rganizer
+  name: Follow Organizer
   url: https://b23.tv/gwMu9d
 url_code: ""
-url_pdf: "Baby Rudin ch01.pdf"
+url_pdf: ""
+# url_pdf: "content/event/Baby Rudin/Baby Rudin ch01.pdf"
 url_slides: ""
 url_video: ""
 
@@ -58,4 +59,4 @@ slides: ""
 projects: []
 ---
 
-For further event details, please follow {{< icon name="bilibili" pack="custom" >}} [AntiRomance](https://b23.tv/gwMu9d) or {{< icon name="weixin" pack="fab" >}} [me](https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8?e=7KApc0) and I'll forward you to the WeChat group of this seminar.
+For further event details, please follow {{< icon name="bilibili" pack=custom >}} [AntiRomance](https://b23.tv/gwMu9d) or {{< icon name="weixin" pack="fab" >}} [me](https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8?e=7KApc0) and I'll forward you to the WeChat group of this seminar.
