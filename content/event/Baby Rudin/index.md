@@ -13,7 +13,7 @@ address:
   # country: United States
 
 summary: Seminar #01 on the Real and Complex Number Systems
-abstract: Weekly seminar organized by {{< icon name="bolt" pack="fas" >}}[AntiRomance](https://b23.tv/gwMu9d)
+abstract: Weekly seminar organized by {{< icon name="bolt" pack="fas" >}} [AntiRomance](https://b23.tv/gwMu9d)
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-04-09T20:00:00Z"
@@ -58,4 +58,4 @@ slides: ""
 projects: []
 ---
 
-For further event details, please follow {{< icon name="bolt" pack="fas" >}}[AntiRomance](https://b23.tv/gwMu9d) or {{< icon name="weixin" pack="fab" >}}[me](https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8?e=7KApc0) and I'll forward you to the WeChat group of this seminar.
+For further event details, please follow {{< icon name="bolt" pack="fas" >}}[AntiRomance](https://b23.tv/gwMu9d) or {{< icon name="weixin" pack="fab" >}}  [me](https://1drv.ms/u/s!Av0DBqC1uDGdcIz7UPnHOMbAqk8?e=7KApc0) and I'll forward you to the WeChat group of this seminar.
