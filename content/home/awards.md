@@ -49,7 +49,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-09-01"
-  description: "◼ Being elected as Academic Representative for the flagship MSc Finance Program at LSE
+  description: "◼ Being elected as Academic Representative for the flagship **MSc Finance** Program at LSE
   
 
 ◼ Being granted £6000 GSS award"
