@@ -73,21 +73,21 @@ This collection is just the annotations of my own superficial understandings on 
 **For Valuation Module:**
 
 *	**Session 1	Free Cash Flow & Callaway Golf**
-*	
+
 *	**Session 2	Diamond Chemicals & Firm and Equity Valuation**
-*	
+
 *	**Session 3	Interco & Alternative Investment Criteria**
-*	
+
 *	**Session 4	Cost of Capital & WACC and APV**
-*	
+
 *	**Session 5	Tottenham Hotspur**
-*	
+
 *	**Session 6	Mergers and Acquisitions & Cooper Industries**
-*	
+
 *	**Session 7	IPOs & Knoll Furniture**
-*	
+
 *	**Session 8	Real Options**
-*	
+
 *	**Session 9	Arundel Partners & Wrap-up**
 
 
