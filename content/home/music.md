@@ -27,6 +27,7 @@ subtitle = ""
  css_class = ""
 +++
 
+{{< audio src="Theme Music.mp3" >}}
 
 {{% callout note %}}
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
