@@ -48,4 +48,4 @@ highlight_name: false
 
 After graduation, he plans to pursue Ph.D. study in **Finance/Financial Economics** or in **Operations Research (Financial Engineering)**. His research interests broadly cover the interdisciplinary fields of Machine/Deep Learning & Finance, currently focusing on the financial applications of Natural Language Processing (NLP) Models.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}**resumé**{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
