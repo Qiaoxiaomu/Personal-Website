@@ -8,7 +8,7 @@ title = ""
 subtitle = ""
 
 design:
-  columns: '1
+  columns: '1'
   background:
     # Name of image in `assets/media/`.
     image: image.jpg
