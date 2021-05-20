@@ -12,9 +12,7 @@ weight: 14
 title: 
 subtitle:
 
-content:
 
-  {{< audio src="Theme Music.mp3" >}}
 
 design:
   columns: '1'
@@ -36,3 +34,4 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "1000px"]
 ---
+  {{< audio src="Theme Music.mp3" >}}
