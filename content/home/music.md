@@ -23,7 +23,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
   spacing:
-    padding: ["10px", "0", "0", "1000px"]
+    padding: ["30px", "0", "10px", "1000px"]
 
 [advanced]
  # Custom CSS. 
