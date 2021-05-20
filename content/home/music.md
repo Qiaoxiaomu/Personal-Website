@@ -7,9 +7,8 @@ weight = 14  # Order that this section will appear.
 title = ""
 subtitle = ""
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+design:
+  columns: '1
   background:
     # Name of image in `assets/media/`.
     image: image.jpg
@@ -23,10 +22,9 @@ subtitle = ""
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-
-[design.spacing]
+  spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["10px", "0", "0", "1000px"]
+    padding: ["10px", "0", "0", "1000px"]
 
 [advanced]
  # Custom CSS. 
