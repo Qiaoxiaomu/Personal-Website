@@ -6,7 +6,7 @@ type: widget_page
 headless: false
 
 header:
-  image: "image.jpg"
+  image: "image.png"
   caption: "Image credit: [**Geo**](https://github.com/gcushen/)"
 
 
