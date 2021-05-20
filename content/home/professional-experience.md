@@ -23,6 +23,18 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
+  - title: Incoming Analyst - Investment Banking Department
+    company: China International Capital Corporation Limited (CICC)
+    company_url: 'https://en.cicc.com/'
+    company_logo: cicc
+    location: Beijing
+    date_start: '2021-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Incoming full-time Analyst at the IBD Execution Supervision Committee (ESC)
+  
   - title: Investment Banking Intern
     company: China Securities Co., Ltd.
     company_url: 'https://www.csc108.com/newsiteindex/index.jspx'
