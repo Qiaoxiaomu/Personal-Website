@@ -28,6 +28,8 @@ design:
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
+  spacing:
+    padding: ["0", "0", "0", "0"]
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
