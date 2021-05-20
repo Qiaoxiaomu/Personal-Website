@@ -37,7 +37,7 @@ subtitle = ""
    #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  
    # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  
+  image_parallax = false  
    # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
