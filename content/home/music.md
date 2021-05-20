@@ -1,10 +1,15 @@
 ---
+
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+
 headless = true  # This file represents a page section.
+
 active = true  # Activate this widget? true/false
+
 weight = 14  # Order that this section will appear.
 
 title = ""
+
 subtitle = ""
 
 design:
@@ -25,12 +30,12 @@ design:
   spacing:
     padding: ["30px", "0", "10px", "1000px"]
 
-[advanced]
+# [advanced]
  # Custom CSS. 
- css_style = ""
+ # css_style = ""
  
  # CSS class.
- css_class = ""
+ # css_class = ""
 
 {{< audio src="Theme Music.mp3" >}}
 ---
