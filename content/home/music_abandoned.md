@@ -6,7 +6,7 @@ widget = "blank"
 headless = true  
 # This file represents a page section.
 
-active = true  
+active = false  
 # Activate this widget? true/false
 
 weight = 14  
@@ -32,7 +32,7 @@ design:
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
   spacing:
-    padding: ["30px", "0", "10px", "1000px"]
+    padding: ["30px", "0", "10px", "0"]
 
 # [advanced]
  # Custom CSS. 
