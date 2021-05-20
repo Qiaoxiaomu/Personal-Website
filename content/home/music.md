@@ -32,6 +32,6 @@ design:
     text_color_light: true
 
   spacing:
-    padding: ["20px", "0", "0", "1000px"]
+    padding: ["10px", "0", "0", "1000px"]
 ---
   {{< audio src="Theme Music.mp3" >}}
