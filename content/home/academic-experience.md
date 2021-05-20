@@ -30,11 +30,11 @@ experience:
     company_logo: loratech
     location: Hong Kong
     date_start: '2021-01-01'
-    date_end: ''
+    date_end: '2021-05-01'
     description: |2-
         Responsibilities include:
         
-        * Currently working on the research project of integrating several state-of-the-art Natural Language Processing models (like FinBERT, etc.) with Finance applications
+        * Worked on the research project of integrating several state-of-the-art Natural Language Processing models (like FinBERT, etc.) with Finance applications
 
   - title: Economic Research Assistant
     company: China Europe International Business School (CEIBS)
