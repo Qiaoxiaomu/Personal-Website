@@ -5,8 +5,6 @@ type: widget_page
 # Homepage is headless, other widget pages are not.
 headless: true
 
-[design]
-
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
