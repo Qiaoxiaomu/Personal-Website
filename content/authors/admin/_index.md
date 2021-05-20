@@ -30,10 +30,10 @@ education:
   courses:
     - course: MSc in Computational Science and Engineering
       institution: College of Computing, Georgia Institute of Technology
-      year: 2023
+      year: 2024
     - course: MSc in Quantitative and Computational Finance
       institution: School of Mathematics, Georgia Institute of Technology
-      year: 2023
+      year: 2024
     - course: MSc in Finance
       institution: London School of Economics and Political Science (LSE)
       year: 2021
