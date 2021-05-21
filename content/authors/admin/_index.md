@@ -1,6 +1,6 @@
 ---
 title: Zhaoyu (Edward) Xu
-role: Master Student in CSE & Finance
+role: IBD Analyst @ CICC
 avatar_filename: avatar.jpg
 bio: Otaku/Coder/Ex-MOer/Knowing a little bit Finance
 interests:
@@ -44,7 +44,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-**Zhaoyu (Edward) Xu** is a master student in **College of Computing (CoC)** at **Georgia Institute of Technology**. Before joining GaTech CoC, he has completed his MSc degree in **Finance** at **London School of Economics (LSE)** and has obtained his Bachelor’s (Hons) degree in **Finance & Applied Math** from **The Hong Kong Polytechnic University (PolyU)**.
+**Zhaoyu (Edward) Xu** is an incoming master student in **College of Computing (CoC)** at **Georgia Institute of Technology**. Before joining GaTech CoC, he has completed his MSc degree in **Finance** at **London School of Economics (LSE)** and has obtained his Bachelor’s (Hons) degree in **Finance & Applied Math** from **The Hong Kong Polytechnic University (PolyU)**.
 
 After graduation, he plans to pursue Ph.D. study in **Finance/Financial Economics** or in **Operations Research (Financial Engineering)**. His research interests broadly cover the interdisciplinary fields of Machine/Deep Learning & Finance, currently focusing on the financial applications of Natural Language Processing (NLP) Models.
 
