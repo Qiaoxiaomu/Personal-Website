@@ -20,8 +20,7 @@ image:
   preview_only: false
 ---
 
-首先真的无比感谢小也老师([{{< icon name="product-hunt
-" pack="fab" >}}小也晓也](https://www.pixiv.net/users/10919493))能够不嫌弃我小学语文/美术级别的描述接了这个委托，并为我生动的展示了什么叫[女娲造人现场](https://www.bilibili.com/video/BV1D64y1C7Lv)（ノ＿ ＿）ノ
+首先真的无比感谢小也老师([{{< icon name="product-hunt" pack="fab" >}}小也晓也](https://www.pixiv.net/users/10919493))能够不嫌弃我小学语文/美术级别的描述接了这个委托，并为我生动的展示了什么叫[女娲造人现场](https://www.bilibili.com/video/BV1D64y1C7Lv)（ノ＿ ＿）ノ
 
 给您跪了orzzzzzzz
 
