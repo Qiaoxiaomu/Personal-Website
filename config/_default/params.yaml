@@ -132,7 +132,7 @@ comments:
     event: true
   disqus:
     shortname: 'edward-xzy'
-    show_count: true
+    show_count: false
   commento:
     url: ''
 search:
