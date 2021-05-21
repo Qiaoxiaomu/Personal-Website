@@ -4,7 +4,7 @@ subtitle: Project <**Human Distress Signal**> Track 05 "**Social Phobia**"
 date: 2021-01-08T00:00:00Z
 summary: Project <**Human Distress Signal**> Track 05 "**Social Phobia**"
 draft: false
-featured: true
+featured: false
 authors:
   - admin
 lastmod: 2020-12-13T00:00:00Z
