@@ -49,6 +49,9 @@ image:
 * 二重身衣服上的logo
 
 
+* 桥两侧的指示牌分别是 - City of London (Part I) -> Atlanta (Part II) (・ω< )☆
+
+
 * 不好意思，我是白毛控(不装了！我摊牌了！
 
 
