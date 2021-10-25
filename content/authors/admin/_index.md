@@ -1,7 +1,7 @@
 ---
 title: Zhaoyu (Edward) Xu
 role: IBD Analyst @ CICC
-avatar_filename: new_avatar_2.jpg
+avatar_filename: avatar-1-.jpg
 bio: Otaku/Coder/Ex-MOer/Knowing a little bit Finance
 interests:
   - Machine Learning
