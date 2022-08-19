@@ -34,6 +34,11 @@ experience:
         Responsibilities include:
         
         * Deeply engaged in 4 IPO and 1 Non-Public Offering projects, together with the continuous supervision and guidance for 3 other projects-
+        (1) EZVIZ (A21616.SH) Spin-off IPO from Hikvision (002415.SZ) – 3.739B
+        (2) China Isotope & Radiation Corp. (1763.HK) H-to-A Listing – 1.842B
+        (3) BMC Medical (A20776.SZ) IPO – 738M
+        (4) Rendu Biotechnology (688193.SH) IPO – 701M
+        (5) East China Engineering Science & Technology (002140.SZ) Non-Public Offering – 931M
         * Taking full charge of the data collection/analysis and training material preparation for the “on-the-job training” to all IBD employees focusing on “IPO Rejection & Penalty Case Analysis from Jan to Aug 2021”
         * Engaged in the research project on analyzing the examination trend of AI-related IPOs on the STAR Market; Constructed the A/H-Share Comps Model Template for 4 different industries; Conducted the comprehensive performance analysis and comparison between CICC and another one of the largest IBs in China, reported to the Head of IBD
         * Independently developed the automatic data processing/updating and report generating toolbox using VBA and Python to follow up the latest IPO proceedings on the market, which is regularly reported to the whole IBD during the weekly morning conference
