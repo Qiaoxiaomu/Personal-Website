@@ -7,7 +7,7 @@ title: Biography
 active: true
 design:
   background:
-    image: header.png
+    image: image.jpg
     image_darken: 0.6
     image_size: cover
     image_position: center
