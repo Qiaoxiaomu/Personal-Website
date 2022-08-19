@@ -23,17 +23,20 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Incoming Analyst - Investment Banking Department
+  - title: Full-Time Analyst - Investment Banking Department
     company: China International Capital Corporation Limited (CICC)
     company_url: 'https://en.cicc.com/'
     company_logo: cicc
     location: Beijing
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2022-01-01'
     description: |2-
         Responsibilities include:
         
-        * Incoming full-time Analyst at the IBD Execution Supervision Committee (ESC)
+        * Deeply engaged in 4 IPO and 1 Non-Public Offering projects, together with the continuous supervision and guidance for 3 other projects-
+        * Taking full charge of the data collection/analysis and training material preparation for the “on-the-job training” to all IBD employees focusing on “IPO Rejection & Penalty Case Analysis from Jan to Aug 2021”
+        * Engaged in the research project on analyzing the examination trend of AI-related IPOs on the STAR Market; Constructed the A/H-Share Comps Model Template for 4 different industries; Conducted the comprehensive performance analysis and comparison between CICC and another one of the largest IBs in China, reported to the Head of IBD
+        * Independently developed the automatic data processing/updating and report generating toolbox using VBA and Python to follow up the latest IPO proceedings on the market, which is regularly reported to the whole IBD during the weekly morning conference
   
   - title: Investment Banking Intern
     company: China Securities Co., Ltd.
