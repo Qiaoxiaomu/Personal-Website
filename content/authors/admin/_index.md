@@ -1,6 +1,6 @@
 ---
 title: Zhaoyu (Edward) Xu
-role: IBD Analyst @ CICC
+role: CSE Student @ GaTech/Ex-IBD Analyst @ CICC
 avatar_filename: 92144654_p1_master1200.jpg
 bio: Otaku/Coder/Ex-MOer/Knowing a little bit Finance
 interests:
