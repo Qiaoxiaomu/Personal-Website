@@ -1,6 +1,6 @@
 ---
 title: Zhaoyu (Edward) Xu
-role: CSE Stu. @ GaTech/Ex-IBanker @ CICC
+role: CSE Stu @ GaTech/Ex-IBanker @ CICC
 avatar_filename: 92144654_p1_master1200.jpg
 bio: Otaku/Coder/Ex-MOer/Knowing a little bit Finance
 interests:
