@@ -29,10 +29,10 @@ organizations:
 education:
   courses:
     - course: MSc in Computational Science and Engineering
-      institution: College of Computing, Georgia Institute of Technology
+      institution: College of Computing, Georgia Tech
       year: 2024
-    - course: MSc in Quantitative and Computational Finance
-      institution: School of Mathematics, Georgia Institute of Technology
+    - course: MSc in Operations Research
+      institution: H. Milton Stewart School of Industrial and Systems Engineering, Georgia Tech
       year: 2024
     - course: MSc in Finance
       institution: London School of Economics and Political Science (LSE)
