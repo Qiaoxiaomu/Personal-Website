@@ -32,7 +32,7 @@ education:
       institution: College of Computing, Georgia Tech
       year: 2024
     - course: MSc in Operations Research
-      institution: H. Milton Stewart School of Industrial and Systems Engineering, Georgia Tech
+      institution: School of Industrial and Systems Engineering, Georgia Tech
       year: 2024
     - course: MSc in Finance
       institution: London School of Economics and Political Science (LSE)
